@@ -2,7 +2,7 @@
 
 ##### 本教程包含谷歌浏览器和Safari浏览器如何复制浏览器中不可转载的文本内容，Safari浏览器在教程开始之前先移到文末打开开发者调试模式
 
-#### 第一步：在谷歌浏览器中按F12打开控制台![截屏2025-09-22 15.31.54](/Users/shenyz/Library/Application Support/typora-user-images/截屏2025-09-22 15.31.54.png)
+#### 第一步：在谷歌浏览器中按F12打开控制台![截屏2025-09-22 15.31.54](https://p.ipic.vip/ijn1xs.jpg)
 
 #### 第二步：点击菜单栏中的Console![截屏2025-09-22 15.32.44](https://p.ipic.vip/jkk9g8.png)
 
@@ -22,7 +22,7 @@ console.table(summary.slice(0, 20)); // 显示前20个候选
 window.__RC_NODES = nodes;
 ```
 
-![截屏2025-09-22 15.34.06](/Users/shenyz/Library/Application Support/typora-user-images/截屏2025-09-22 15.34.06.png)
+![截屏2025-09-22 15.34.06](https://p.ipic.vip/1wp52o.jpg)
 
 #### 第四步：得到如图所示表格，将表格中排名最高的一列的idx输入如下代码中相应的位置
 
@@ -37,7 +37,7 @@ console.log('class:', el.className, 'text length:', (el.innerText||'').length);
 console.log((el.innerText||'').slice(0,400)); // 先看前400字符
 ```
 
-![截屏2025-09-22 15.38.11](/Users/shenyz/Library/Application Support/typora-user-images/截屏2025-09-22 15.38.11.png)
+![截屏2025-09-22 15.38.11](https://p.ipic.vip/k8khd6.jpg)
 
 #### 第五步：检查文本是否为所需文本，如是，则再再控制台中输入以下代码
 
@@ -47,7 +47,7 @@ console.log('class:', el.className, 'text length:', (el.innerText||'').length);
 console.log((el.innerText||'')); // 打印全部文本
 ```
 
-![截屏2025-09-22 15.39.57](/Users/shenyz/Library/Application Support/typora-user-images/截屏2025-09-22 15.39.57.png)
+![截屏2025-09-22 15.39.57](https://p.ipic.vip/k5j9uj.jpg)
 
 #### 第六步：得到结果之后直接复制即可
 
