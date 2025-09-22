@@ -4,7 +4,7 @@
 
 #### 第一步：在谷歌浏览器中按F12打开控制台![截屏2025-09-22 15.31.54](/Users/shenyz/Library/Application Support/typora-user-images/截屏2025-09-22 15.31.54.png)
 
-#### 第二步：点击菜单栏中的Console![截屏2025-09-22 15.32.44](/Users/shenyz/Library/Application Support/typora-user-images/截屏2025-09-22 15.32.44.png)
+#### 第二步：点击菜单栏中的Console![截屏2025-09-22 15.32.44](https://p.ipic.vip/jkk9g8.png)
 
 #### 第三步：输入以下代码到小箭头>后面
 
